@@ -5,6 +5,8 @@ Material de estudo do minicurso "Aprenda a aplicar testes com Java" proporcionad
 Link Direto para acesso ao Curso: <br>
 https://web.dio.me/course/aprenda-aplicar-testes-com-java/learning/2c9b79aa-b288-4103-b9b4-6550d20dff5c
 
+Observação: O PDF dos slides estão cortados porque procurei não realizar a captura de tela do quadrado no canto inferior direito com a imagem da webcam do Rodrigo Tassini, capturando apenas o conteúdo do slide (removendo o rosto do instrutor)
+
 # Acesso ao curso
 
 Para acessar o curso você deve estar logado na plataforma da DIO.
