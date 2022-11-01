@@ -1,11 +1,11 @@
 # Seção 2 - Explorando Mocks e Asserts
 
 ## Vídeo 1 - Trabalhando com Mocks
-Tempo do Vídeo: 7 minutos e 49 segundos (07:49)
-Link do Vídeo: <br>
+***Tempo do Vídeo***: 7 minutos e 49 segundos (07:49) <br>
+***Link do Vídeo***: <br>
 https://web.dio.me/course/aprenda-aplicar-testes-com-java/learning/b5bb2cd2-7716-4209-b008-e97083e543ce
 
-Observação (Vídeo 1): Não foi mostrado o pom.xml então encontrei na internet uma dependência que fosse compatível com o exemplo realizado. Alteração apenas da classe CalculadoraTest.class do pacote com.test da pasta src/test/java
+Observação (Vídeo 1): Não foi mostrado o pom.xml no vídeo 1, então encontrei na internet uma dependência que fosse compatível com o exemplo realizado. Houve alteração apenas da classe CalculadoraTest.class do pacote com.test da pasta src/test/java criando o método **public void testeSomarComMock()**
 
 # Acesso aos vídeos
 
