@@ -13,7 +13,7 @@ Observação (Vídeo 1):
 ***Link do Vídeo***: <br>
 https://web.dio.me/course/aprenda-aplicar-testes-com-java/learning/c31deb3e-14a3-4ee1-a7f7-8cb5cce7f1ce
 
-Observação (Vídeo 2): 
+Observação (Vídeo 2): O vídeo 2 não tem produção de código. Todo o vídeo é explicando através das falas e slides sobre as novidades do JUnit 5.
 
 
 # Acesso aos vídeos
