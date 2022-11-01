@@ -1,7 +1,7 @@
 # Seção 1 - Testes Unitários com JUnit 4
 
 ## Vídeo 1 - Conheça o framework para testar e organizar códigos
-***Tempo do Vídeo***: 22 minutos (22:00)
+***Tempo do Vídeo***: 22 minutos (22:00) <br>
 ***Link do Vídeo***: <br>
 https://web.dio.me/course/aprenda-aplicar-testes-com-java/learning/b5bb2cd2-7716-4209-b008-e97083e543ce
 
