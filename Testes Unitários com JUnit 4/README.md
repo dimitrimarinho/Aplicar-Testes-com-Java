@@ -4,3 +4,9 @@
 Tempo do Vídeo: 22 minutos (22:00)
 
 Observação: Algumas partes do código foram adaptadas para reprodução e também estudo. Um método em específico estava depreciado, então alterei para a recomendação de uso atual.
+
+# Acesso aos vídeos
+
+Para acessar os vídeos você deve estar logado na plataforma da DIO.
+Caso não tenha uma conta e queira criar para acessar o curso, crie sua conta através do link abaixo: <br>
+https://dio.me/sign-up?ref=BZTI0FFCDK
