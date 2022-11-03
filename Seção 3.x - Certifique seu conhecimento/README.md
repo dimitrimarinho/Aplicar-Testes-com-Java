@@ -3,80 +3,80 @@
 
 ## 1 - Qual das afirmativas sobre Rule abaixo é verdadeira ?
 
-( ) Podemos utilizar com import static
-( ) Podemos instanciar uma classe com Rule
-( ) Podemos criar arquivos e diretórios que serão deletados após o método ser executado
-( ) Nenhuma das alternativas
-( ) Podemos instanciar uma Rule com new
+( ) Podemos utilizar com import static <br>
+( ) Podemos instanciar uma classe com Rule <br>
+( ) Podemos criar arquivos e diretórios que serão deletados após o método ser executado <br>
+( ) Nenhuma das alternativas <br>
+( ) Podemos instanciar uma Rule com new <br>
 
 ## 2 - O que é TDD ?
 
-( ) Uma metodologia de desenvolvimento de software
-( ) Nenhuma das alternativas
-( ) Um framework de testes
-( ) Uma metodologia de testes
-( ) Um framework de orientação a objetos
+( ) Uma metodologia de desenvolvimento de software <br>
+( ) Nenhuma das alternativas <br>
+( ) Um framework de testes <br>
+( ) Uma metodologia de testes <br>
+( ) Um framework de orientação a objetos <br>
 
 ## 3 - Testes Unitários são usados para: 
 
-( ) Testar uma única funcionalidade da aplicação
-( ) Testar a integração entre camadas da aplicação
-( ) Testar se a aplicação implementa boas práticas
-( ) Testar toda a aplicação
-( ) Nenhuma das alternativas
+( ) Testar uma única funcionalidade da aplicação <br>
+( ) Testar a integração entre camadas da aplicação <br>
+( ) Testar se a aplicação implementa boas práticas <br>
+( ) Testar toda a aplicação <br>
+( ) Nenhuma das alternativas <br>
 
 ## 4 - Como são chamados os pequenos passos do desenvolvimento no TDD ?
 
-( ) Babysteps
-( ) Step by step
-( ) First step
-( ) Shortsteps
-( ) Nenhuma das alternativas
+( ) Babysteps <br>
+( ) Step by step <br>
+( ) First step <br>
+( ) Shortsteps <br>
+( ) Nenhuma das alternativas <br>
 
 ## 5 - Por que TDD proporciona um código mais limpo ?
 
-( ) Por favorecer a criação de códigos com programação orientada a objetos
-( ) Nenhuma das alternativas
-( ) Por favorecer a criação de códigos menores e testáveis
-( ) Por favorecer a criação de códigos com Design Patterns
-( ) Por favorecer a criação de códigos estáveis
+( ) Por favorecer a criação de códigos com programação orientada a objetos <br>
+( ) Nenhuma das alternativas <br>
+( ) Por favorecer a criação de códigos menores e testáveis <br>
+( ) Por favorecer a criação de códigos com Design Patterns <br>
+( ) Por favorecer a criação de códigos estáveis <br>
 
 ## 6 - Qual das afirmações abaixo é verdadeira sobre limitações no uso de Mocks ?
 
-( ) Tipos primitivos, Objetos e Arrays
-( ) Tipos primitivos, Classes e Collections
-( ) Classes, Métodos e Objetos
-( ) Listas e Collections
-( ) Variáveis, Instâncias e Objetos
+( ) Tipos primitivos, Objetos e Arrays <br>
+( ) Tipos primitivos, Classes e Collections <br>
+( ) Classes, Métodos e Objetos <br>
+( ) Listas e Collections <br>
+( ) Variáveis, Instâncias e Objetos <br>
 
 ## 7 - Quais abordagens são utilizadas para testar exceptions ?
 
-( ) Checked e Unchecked Exceptions
-( ) Nenhuma das alternativas
-( ) Runtime Exceptions Rules, Runtime Exceptions
-( ) Expected Exceptions, Expected Exceptions Rules e Try / Catch Idiom
-( ) Rumtime Exceptions e Try / Catch / Finally
+( ) Checked e Unchecked Exceptions <br>
+( ) Nenhuma das alternativas <br>
+( ) Runtime Exceptions Rules, Runtime Exceptions <br>
+( ) Expected Exceptions, Expected Exceptions Rules e Try / Catch Idiom <br>
+( ) Rumtime Exceptions e Try / Catch / Finally <br>
 
 ## 8 - PowerMockito é uma API de extensão que permite trabalhar com:
 
-( ) Lambda
-( ) Nenhuma das alternativas
-( ) Restful
-( ) Streams
-( ) Reflection
+( ) Lambda <br>
+( ) Nenhuma das alternativas <br>
+( ) Restful <br>
+( ) Streams <br>
+( ) Reflection <br>
 
 ## 9 - Qual das afirmações abaixo sobre razões de usar Mocks é verdadeira ?
 
-( ) Nenhuma das alternativas
-( ) Uma das razões para usar Mocks é que são objetos flexíveis
-( ) Uma das razões para usar Mocks é que criar / simular objetos reais para testes é difícil
-( ) Uma das razões para usar Mocks é que podem ser criados e destruídos em tempo de execução
-( ) Uma das razões para usar Mocks é que não são necessários frameworks adicionais
+( ) Nenhuma das alternativas <br>
+( ) Uma das razões para usar Mocks é que são objetos flexíveis <br>
+( ) Uma das razões para usar Mocks é que criar / simular objetos reais para testes é difícil <br>
+( ) Uma das razões para usar Mocks é que podem ser criados e destruídos em tempo de execução <br>
+( ) Uma das razões para usar Mocks é que não são necessários frameworks adicionais <br>
 
 ## 10 - AssertEquals verifica se:
 
-( ) O valor esperado e atual são iguais
-( ) O valor atual e esperado não são iguais
-( ) Nenhuma das alternativas
-( ) O valor esperado e atual não são iguais
-( ) O valor atual e esperado são iguais
+( ) O valor esperado e atual são iguais <br>
+( ) O valor atual e esperado não são iguais <br>
+( ) Nenhuma das alternativas <br>
+( ) O valor esperado e atual não são iguais <br>
+( ) O valor atual e esperado são iguais <br>
