@@ -5,7 +5,7 @@
 ***Link do Vídeo***: <br>
 https://web.dio.me/course/aprenda-aplicar-testes-com-java/learning/9ac8706b-f2d8-4c13-be42-4e393534243b
 
-Observação (Vídeo 1): 
+Comentário sobre o Vídeo 1: Para demonstrar o TDD foi criada a classe CalculadoraNovaTest na pasta src/test/java e após o teste falhar foi criada a classe CalculadoraNova na pasta src/main/java
 
 
 ## Vídeo 2 - Novidades do JUnit 5
@@ -13,7 +13,7 @@ Observação (Vídeo 1):
 ***Link do Vídeo***: <br>
 https://web.dio.me/course/aprenda-aplicar-testes-com-java/learning/c31deb3e-14a3-4ee1-a7f7-8cb5cce7f1ce
 
-Observação (Vídeo 2): O vídeo 2 não tem produção de código. Todo o vídeo é explicando através das falas e slides sobre as novidades do JUnit 5.
+Comentário sobre o Vídeo 2: O vídeo 2 não tem produção de código. Todo o vídeo é explicando através das falas e slides sobre as novidades do JUnit 5.
 
 
 # Acesso aos vídeos
