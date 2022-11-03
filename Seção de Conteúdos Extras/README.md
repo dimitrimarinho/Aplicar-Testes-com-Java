@@ -11,7 +11,7 @@ https://github.com/rtassini/TestesComJava
 -- Ambos os códigos abaixo foram escritos usando a IDE Eclipse (acompanhando a IDE utilizada pelo instrutor) --
 
 ## Códigos do treinamento salvos neste repositório
-
+[Acesse neste link os códigos do instrutor](https://github.com/dimitrimarinho/Aplicar-Testes-com-Java/tree/main/Se%C3%A7%C3%A3o%20de%20Conte%C3%BAdos%20Extras/C%C3%B3digos%20do%20Treinamento%20(Rodrigo%20Tassini))
 
 ## Meus códigos (algumas adaptações)
 
